@@ -5,10 +5,11 @@ import { Component } from '@angular/core';
   template: `
     <div class="content-container">
       <div class="content-title-group not-found">
-        <h2 class="title">Product Wish List</h2>
+        <h2 class="title">Alles meinem Gott zur Ehr</h2>
         <p>
-          This project was created to help represent a fundamental app written
-          with Angular. The shopping theme is used throughout the app.
+          Ein erstes Testprojekt in Azure
+
+          Laudetur Jesus Christus!
         </p>
         <br />
         <h2 class="title">Resources</h2>
